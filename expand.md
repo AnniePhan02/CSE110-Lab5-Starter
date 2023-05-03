@@ -1,0 +1,5 @@
+# Expand
+1. IDs and classes are important because they help you select a specific element. They allow all HTML, CSS, and Javascript to interact with these elements. This makes it more simple and organized to wok with.
+2. Data attibutes are data that is attributed to an HTML element. They might be useful because they can be accessed by Javascript and CSS. Therefore, if I were to do something that interacts with them in Javascript or CSS, I would be able to change these data attributes. This might be important fo microdata because data attributes could be part of them.
+3. A DOM fragment is another version of the DOM that contains a portion of an HTML document. It is powerful because you can manipulate multiple elements at once. 
+4. A virtual DOM is a representation of the code you are working on. It represents the structure of your actual DOM.
